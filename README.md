@@ -2,7 +2,7 @@
 
 Why i should use it?
 
-**Becouse it automatically translates all your english text!**
+**Because it automatically translates all your english text!**
 
 Wow, it's so cool!
 
