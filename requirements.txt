@@ -3,3 +3,6 @@ requests==2.20.1
 py_translator==1.8.9
 python-docx
 tqdm
+nltk
+pandas
+numpy
