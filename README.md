@@ -36,7 +36,7 @@ This program translate docx file with a table, that look like this:
     </tr>
 </table>
 
-So, english articles in left column, their translation - in right column. This programm will translate all articles withowt translation (i.e. if their left cell is empty) and store translated text in left cell.
+So, english articles in left column, their translation - in right column. This programm will translate all articles without translation (i.e. if their left cell is empty) and store translated text in left cell.
 
 Table will lock like this:
 
