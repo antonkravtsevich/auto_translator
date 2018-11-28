@@ -59,6 +59,8 @@ Table will lock like this:
     </tr>
 </table>
 
+Yes, translator use google translate service, so translated text will not always look very good. You need to fix it. Or not?..
+
 After translation os compleate, file will be saved with name 'auto_translated__' + old file name.
 
 Enjoy!
