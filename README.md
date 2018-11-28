@@ -10,7 +10,7 @@ Wow, it's so cool!
 
 1. **Install python 3**
 2. **Install all dependencies by typing command `pip install -r requirements.txt`**
-3. **Run auto translation by typing command `python auto_translate.py %filename% any time you need!**
+3. **Run auto translation by typing command `python auto_translate.py %filename%` any time you need!**
 
 Wow, it's save so much free time!
 
